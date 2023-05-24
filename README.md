@@ -1,2 +1,2 @@
-# Spam-Mail-Prediction-using-Machine-Learning-Algorithms
+## Spam-Mail-Prediction-using-Machine-Learning-Algorithms
  
